@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @simplixiity
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning the language racket (DrRacket) for my University, but I also want to learn Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 <!---
